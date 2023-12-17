@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ecommerce-react-app/static/css/main.3b377ddc.css",
+    "main.js": "/ecommerce-react-app/static/js/main.41e0c1ea.js",
+    "static/media/i14pm.png": "/ecommerce-react-app/static/media/i14pm.1eedf9bbc3d185f0e500.png",
+    "static/media/macair.png": "/ecommerce-react-app/static/media/macair.a47bf6342a1dc538a584.png",
+    "static/media/i15pm.png": "/ecommerce-react-app/static/media/i15pm.4aa8bef0df3a5750c02e.png",
+    "static/media/i14.png": "/ecommerce-react-app/static/media/i14.4112843dd0ab7ea1882d.png",
+    "static/media/i15.png": "/ecommerce-react-app/static/media/i15.7d9a8df57770fe355fd4.png",
+    "static/media/i13pm.png": "/ecommerce-react-app/static/media/i13pm.69a4038656c5aef50cd3.png",
+    "static/media/i13.png": "/ecommerce-react-app/static/media/i13.e7bb88d6ec1e05d0c56c.png",
+    "static/media/i12m.png": "/ecommerce-react-app/static/media/i12m.47996f4f19130f1143f5.png",
+    "static/media/macpro.png": "/ecommerce-react-app/static/media/macpro.ed2362ec3ba2d0bb4b53.png",
+    "index.html": "/ecommerce-react-app/index.html",
+    "main.3b377ddc.css.map": "/ecommerce-react-app/static/css/main.3b377ddc.css.map",
+    "main.41e0c1ea.js.map": "/ecommerce-react-app/static/js/main.41e0c1ea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b377ddc.css",
+    "static/js/main.41e0c1ea.js"
+  ]
+}
