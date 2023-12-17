@@ -25,7 +25,7 @@ export const Cart = () => {
       {totalAmt>0 ? (
       <div className="checkout">  
         <p>Subtotal : ₹{totalAmt}</p>
-        <button onClick={()=>navigate('/')}>Continue Shopping</button>
+        <button onClick={()=>navigate('/ecommerce-react-app')}>Continue Shopping</button>
       </div> 
       ) : ( 
       <h2>Your Cart is Empty</h2>
