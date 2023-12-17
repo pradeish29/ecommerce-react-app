@@ -9,11 +9,11 @@ export const Navbar = () => {
   return (
     <div className='navbar'>
       
-         <Link to='/' className='title'><FontAwesomeIcon icon={faApple}/> Apple</Link>
+         <Link to='/ecommerce-react-app' className='title'><FontAwesomeIcon icon={faApple}/> Apple</Link>
 
         <div className='links'>
             
-            <Link to='/cart'>Cart <FontAwesomeIcon icon={faShoppingCart}/>
+            <Link to='/ecommerce-react-app/cart'>Cart <FontAwesomeIcon icon={faShoppingCart}/>
             </Link>
         </div>
     </div>
