@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-To view the deployed website click the below website
+To view the deployed website click the below website:
 https://pradeish29.github.io/ecommerce-react-app/
 And click the Apple icon on the navbar.
 
