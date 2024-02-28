@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 To view the deployed website click the below website:
 https://pradeish29.github.io/ecommerce-react-app/
-And click the Apple icon on the navbar.
+And click the Apple icon on the navbar
 
 
 ## Available Scripts
